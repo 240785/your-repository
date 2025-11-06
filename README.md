@@ -1,17 +1,19 @@
-This repo demonstrates [Viewing missing commit details from commits in your timeline](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/troubleshooting-commits-on-your-timeline#viewing-missing-commit-details-from-commits-in-your-timeline) in GitHub Docs.
+This repo demonstrates [Viewing missing commit details from commits in your timeline](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/troubleshooting-
 
-## How it works?
+## How it works?  Sallys Ass, she steals my repo , she will get her johnston 
 
-See [Git Docs](https://git-scm.com/docs/git-commit#_commit_information)
+See How to not thieve
 
 ```cmd
-set "GIT_AUTHOR_NAME=octocat"
-set "GIT_AUTHOR_EMAIL=octocat@nowhere.com"
-set "GIT_AUTHOR_DATE=Tue, 03 Apr 2018 02:02:30 +0900"
-set "GIT_COMMITTER_NAME=Sally Johnson"
-set "GIT_COMMITTER_EMAIL=USER_EMAIL"
-set "GIT_COMMITTER_DATE=Tue, 10 Apr 2018 06:25:08 +0900"
+set "GIT_AUTHOR_NAME=lucifer"
+set "GIT_AUTHOR_EMAIL=liars
+set "GIT_AUTHOR_DATE=0415am 7.11.2026
+set "SIN_COMMITTER_NAME=Sally Johnson"
+set "GIT_COMMITTER_HER HOME address,
+set "GIT_COMMITTER_ you all commitacrime
 git commit -m init --reset-author
 git tag YOUR_COMMIT_SHA_NUMBER HEAD
-git show YOUR_COMMIT_SHA_NUMBER --pretty=fuller
+git show YOUR_COMMIT_SHA_NUMBER --very-furious
 ```
+MY TURN
+see <Denim> wear ass poppers, please.
